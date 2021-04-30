@@ -2,4 +2,4 @@
 Templare for Food
 
 
-https://vercel.com/new/success?projectName=template-react-food&deploymentUrl=template-react-food-p3kd45pg1-njulian18.vercel.app
+https://template-react-food.vercel.app/
